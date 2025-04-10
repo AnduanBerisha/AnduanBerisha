@@ -30,8 +30,6 @@ I'm a Swiss Student. I'm a junior developer and love coding.
 
 ## Stats
 ![Stats](https://github-readme-stats.vercel.app/api?username=AnduanBerisha&show_icons=true&theme=tokyonight)
-
-<img alt="Mark streak" src="https://github-readme-streak-stats-five-roan.vercel.app?user=AnduanBerisha&theme=dark"></td><td width="50%" align="center">
 <img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=AnduanBerisha&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=6"></td></tr></tbody></table>
 
 <!--
