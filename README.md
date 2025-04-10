@@ -18,6 +18,11 @@ I'm a Swiss Student. I'm a junior developer and love coding.
 - C#
 - C++
 
+## Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=AnduanBerisha&show_icons=true&theme=tokyonight)
+
+
+
 <!--
 **AnduanBerisha/AnduanBerisha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
