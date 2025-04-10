@@ -16,7 +16,6 @@ I'm a Swiss Student. I'm a junior developer and love coding.
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000"> 
 <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff"> 
 <img src="https://img.shields.io/badge/Lua-%232C2D72.svg?logo=lua&logoColor=white"> 
-<img src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white"> 
 <img src="https://img.shields.io/badge/Swift-F54A2A?logo=swift&logoColor=white"> 
 <img src="https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff"> 
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff"> 
@@ -25,7 +24,6 @@ I'm a Swiss Student. I'm a junior developer and love coding.
 <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white"> 
 <img src="https://img.shields.io/badge/Unity-%23000000.svg?logo=unity&logoColor=white"> 
 <img src="https://img.shields.io/badge/Godot-%23FFFFFF.svg?logo=godot-engine"> 
-<img src="https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white"> 
 <img src="https://img.shields.io/badge/Homebrew-FBB040?logo=homebrew&logoColor=fff"> 
 
 ## Stats
